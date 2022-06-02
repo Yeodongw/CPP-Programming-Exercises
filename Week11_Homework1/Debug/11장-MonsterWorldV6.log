@@ -1,0 +1,4 @@
+﻿  MonsterWorldGame.cpp
+C:\Users\여동원\Desktop\c++과제\Week11_Homework1\Human.h(11,27): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+C:\Users\여동원\Desktop\c++과제\Week11_Homework1\Human.h(13,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  11장-MonsterWorldV6.vcxproj -> C:\Users\여동원\Desktop\c++과제\Week11_Homework1\Debug\11장-MonsterWorldV6.exe
